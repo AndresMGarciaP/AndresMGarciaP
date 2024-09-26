@@ -1,8 +1,9 @@
 # hola soy andres
 
 ## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Hello! I'm a Colombian Civil Engineer but i'm passionate about the Tech world. Right now i'm learning a couple programming languages and taking a course of QA atuomation and testing teached by Globant.
 
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+As I continue my journey to turn my career into tech you can reach me out in linked in.
+https://www.linkedin.com/feed/
 
